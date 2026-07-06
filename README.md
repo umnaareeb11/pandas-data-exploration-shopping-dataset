@@ -1,10 +1,10 @@
-🛍️ Shopping Dataset — Data Exploration & Cleaning with Pandas
+ Shopping Dataset — Data Exploration & Cleaning with Pandas
 
 A beginner Python & Pandas project that performs end-to-end data exploration and cleaning on a real-world shopping dataset from Kaggle.
 
 ---
 
-📌 About the Project
+ About the Project
 
 This project was completed as part of a **Python & Pandas beginner assignment**. The goal was to learn how to load, explore, clean, and export a real-world CSV dataset using industry-standard data science practices.
 
@@ -12,7 +12,7 @@ The dataset used is the **Shopping Dataset (Ecommerce Products & Sizes)** from K
 
 ---
 
- 📊 Dataset
+  Dataset
 
 | Property | Details |
 |---|---|
@@ -24,19 +24,19 @@ The dataset used is the **Shopping Dataset (Ecommerce Products & Sizes)** from K
 
 ---
 
-🎯 Objectives
+ Objectives
 
-- ✅ Load a CSV dataset into a Pandas DataFrame
-- ✅ Explore the dataset (shape, columns, data types, statistics)
-- ✅ Identify and handle missing values
-- ✅ Perform basic operations (filter, select, sort)
-- ✅ Remove duplicate records
-- ✅ Create a derived column `total_amount = price × quantity`
-- ✅ Save the cleaned dataset as a new CSV file
+-  Load a CSV dataset into a Pandas DataFrame
+- Explore the dataset (shape, columns, data types, statistics)
+-  Identify and handle missing values
+-  Perform basic operations (filter, select, sort)
+-  Remove duplicate records
+-  Create a derived column `total_amount = price × quantity`
+-  Save the cleaned dataset as a new CSV file
 
 ---
 
- 📁 Project Structure
+ Project Structure
 
 ```
 pandas-data-exploration-shopping-dataset/
@@ -90,7 +90,7 @@ Step 5 — Run the notebook
 
 ---
 
-📓 Steps Performed in the Notebook
+Steps Performed in the Notebook
 
 | Step | Description |
 |---|---|
@@ -106,9 +106,9 @@ Step 5 — Run the notebook
 
 ---
 
-🔍 Key Findings
+Key Findings
 
-> ✏️ *Fill this section after running the notebook with your actual results.*
+>  *Fill this section after running the notebook with your actual results.*
 
 - **Total rows in original dataset:** _(add after running)_
 - **Total columns:** _(add after running)_
@@ -124,7 +124,7 @@ Step 5 — Run the notebook
 
 ---
 
-## 💡 What I Learned
+##  What I Learned
 
 - How to load and inspect a real-world CSV dataset using Pandas
 - How to identify and handle missing values using `fillna()` and `dropna()`
@@ -136,7 +136,7 @@ Step 5 — Run the notebook
 
 ---
 
-🚧 Challenges Faced
+Challenges Faced
 
 - Understanding the difference between `NaN` and empty strings
 - Deciding whether to fill or drop missing values
@@ -145,7 +145,7 @@ Step 5 — Run the notebook
 
 ---
 
- 🔮 Future Improvements
+ Future Improvements
 
 - Add data visualization using Matplotlib or Seaborn
 - Perform groupby analysis (e.g., sales by category)
@@ -154,7 +154,7 @@ Step 5 — Run the notebook
 
 ---
 
- 👤 Author
+  Author
 
 **Umna Areeb**
 - GitHub: [@umnaareeb11](https://github.com/umnaareeb11)
@@ -168,7 +168,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
- 🙏 Acknowledgements
+  Acknowledgements
 
 - Dataset by [anvitkumar](https://www.kaggle.com/anvitkumar) on Kaggle
 
